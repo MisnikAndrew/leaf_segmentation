@@ -2,6 +2,9 @@
 Код лежит в файле flowers_segmentation.ipynb<br> <br>
 Полученные метрики: <br>
 DiffFgMSE = 0.0249 <br>
-DiffFgDICE = 0.9751 <br> <br>
+DiffFgDICE = 0.9751 <br> 
+Субъективно, результаты получились адекватными, но неидеальными <br>
+Обучалось примерно 20 минут <br>
+<br>
 Ссылка на архив с результатами: <br>
 https://drive.google.com/file/d/13zZaXFytaaqLB3eEisT3IMawvl-QP1-K/view?usp=sharing
